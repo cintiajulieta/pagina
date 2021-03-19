@@ -1,0 +1,144 @@
+
+
+
+.logo { 
+	width: 1347px;
+	height: 600px;
+	margin: 0px;
+			
+}
+
+ {position: relative;
+	display: inline-grid;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: "Gill Sans Extrabold", Helvetica, sans-serif 
+}
+
+
+#tittle {     font-size: 55px;
+   	color: black;
+	text-align: center;
+	background-size: cover;
+	position: absolute;
+	top: 0;
+	left: 23%;
+	font-family: chivo; 
+
+}
+	       }
+h2  { 
+	font-size: 120px;
+	margin: 5%;
+	padding: 0 50px;
+	background-color: #C0B3FF;
+	
+}
+
+
+
+.p3 {
+	color: black;
+	font-size: 40px;
+	margin: 0px; 
+	background-color: pink;
+	padding: 25px;
+
+}
+
+.footer{ display: flex;
+	flex-direction: row;
+background-color: pink;
+}
+
+.first{display: flex;
+padding: 3%;
+margin: 10%;
+
+}
+
+.second{padding: 0;
+margin: 0;
+}
+.third { padding: 0;
+
+}
+
+.box {  text-align: center;
+	text-transform: uppercase;
+	color: #1F618D;
+
+        display: flex;
+}
+
+.one {
+        flex: 1 1 auto;
+        border: groove 1em lightblue;
+  border-radius: 2em;
+        margin: 60px;
+}
+
+.two {
+        flex: 1 1 auto;
+        border: groove 1em lightblue;
+        border-radius: 2em;
+         margin: 60px;
+}
+
+.three { 
+        flex: 1 1 auto;
+        border: groove 1em lightblue;
+        border-radius: 2em;
+         margin: 60px;
+}
+
+.astronomia {width: 220px; 
+	height:120px;
+	margin: 0 15px;
+	padding: 7%;
+	
+
+}
+
+.tecnologia { 
+	width: 200px; 
+	height:120px;
+	margin: 0 20px;
+	padding: 7%;
+	}
+
+.descubre {
+	width: 150px; 
+	height:120px;
+	margin: 0 30px;
+	padding: 10%;
+	
+}
+
+
+ .p1{ text-align: center;
+ 	   font-size: 45px;
+   	color: black;
+	text-align: center;
+	background-size: cover;
+	position: absolute;
+	top: 480px;
+	left: 18%;
+	font-family: chivo;
+}
+
+  .p2 { font-size: 20px;
+  	text-align: center;
+  	font-style: oblique;
+  	line-height: 2em;
+  	background-color: #C0B3FF;
+    margin: 0;
+  	padding: 10px 20px;
+
+  }
+
+  
